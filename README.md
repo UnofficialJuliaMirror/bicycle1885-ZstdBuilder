@@ -1,4 +1,6 @@
-# ZstdBuilder builder
+# ZstdBuilder
+
+[![Build Status](https://travis-ci.org/bicycle1885/ZstdBuilder.svg?branch=master)](https://travis-ci.org/bicycle1885/ZstdBuilder)
 
 This repository builds binary artifacts for the ZstdBuilder project.
 This repository has a default .travis.yml file that can be used to build
